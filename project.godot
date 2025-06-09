@@ -19,10 +19,6 @@ config/icon="res://Assets/textures/icon.svg"
 
 settings/stdout/print_fps=true
 
-[display]
-
-window/vsync/vsync_mode=0
-
 [input]
 
 up={
