@@ -13,7 +13,6 @@ config_version=5
 config/name="1_week_FoGD"
 run/main_scene="uid://dttf8lmxtu2qm"
 config/features=PackedStringArray("4.4", "GL Compatibility")
-run/max_fps=10
 config/icon="res://Assets/textures/icon.svg"
 
 [debug]
