@@ -1,7 +1,7 @@
 extends Node
 
 
-const SPEED : int = 5
+const SPEED : int = 0
 
 @onready var ICON : Sprite2D = $Icon
 
